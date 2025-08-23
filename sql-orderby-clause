@@ -1,0 +1,12 @@
+/* Order By Clause*/
+
+select * from EmpRecords
+
+select * from EmpRecords order by Salary
+
+select * from EmpRecords order by Salary DESC
+
+select * from EmpRecords order by FirstName ASC, Salary DESC
+
+
+select * from EmpRecords order by Department ASC, Salary DESC
