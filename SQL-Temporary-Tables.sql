@@ -1,3 +1,4 @@
+use Employees;
 
 select * from EmpRecords;
 
