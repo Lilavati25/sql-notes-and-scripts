@@ -52,3 +52,4 @@ group by ProductID
 
 select SaleDate,MAX(TotalAmount) [Max Amount] from dbo.sales
 group by SaleDate
+
